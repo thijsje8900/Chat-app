@@ -1,2 +1,1 @@
-# Chat-app
- Gemaakt voor MijnRapportfolio VO
+# chat-app
